@@ -1,0 +1,506 @@
+symbol,name,sector
+MMM,3M Company,Ind
+AOS,A.O. Smith Corp,Ind
+ABT,Abbott Laboratories,HC
+ABBV,AbbVie Inc.,HC
+ACN,Accenture plc,IT
+ATVI,Activision Blizzard,IT
+AYI,Acuity Brands Inc,Ind
+ADBE,Adobe Systems Inc,IT
+AAP,Advance Auto Parts,CD
+AMD,Advanced Micro Devices Inc,IT
+AES,AES Corp,Ut
+AET,Aetna Inc,HC
+AMG,Affiliated Managers Group Inc,Fin
+AFL,AFLAC Inc,Fin
+A,Agilent Technologies Inc,HC
+APD,Air Products & Chemicals Inc,Mat
+AKAM,Akamai Technologies Inc,IT
+ALK,Alaska Air Group Inc,Ind
+ALB,Albemarle Corp,Mat
+ARE,Alexandria Real Estate Equities Inc,RE
+ALXN,Alexion Pharmaceuticals,HC
+ALGN,Align Technology,HC
+ALLE,Allegion,Ind
+AGN,"Allergan, Plc",HC
+ADS,Alliance Data Systems,IT
+LNT,Alliant Energy Corp,Ut
+ALL,Allstate Corp,Fin
+GOOGL,Alphabet Inc Class A,IT
+GOOG,Alphabet Inc Class C,IT
+MO,Altria Group Inc,CS
+AMZN,Amazon.com Inc.,CD
+AEE,Ameren Corp,Ut
+AAL,American Airlines Group,Ind
+AEP,American Electric Power,Ut
+AXP,American Express Co,Fin
+AIG,"American International Group, Inc.",Fin
+AMT,American Tower Corp A,RE
+AWK,American Water Works Company Inc,Ut
+AMP,Ameriprise Financial,Fin
+ABC,AmerisourceBergen Corp,HC
+AME,AMETEK Inc.,Ind
+AMGN,Amgen Inc.,HC
+APH,Amphenol Corp,IT
+APC,Anadarko Petroleum Corp,Engy
+ADI,"Analog Devices, Inc.",IT
+ANDV,Andeavor,Engy
+ANSS,ANSYS,IT
+ANTM,Anthem Inc.,HC
+AON,Aon plc,Fin
+APA,Apache Corporation,Engy
+AIV,Apartment Investment & Management,RE
+AAPL,Apple Inc.,IT
+AMAT,Applied Materials Inc.,IT
+APTV,Aptiv Plc,CD
+ADM,Archer-Daniels-Midland Co,CS
+ARNC,Arconic Inc.,Ind
+AJG,Arthur J. Gallagher & Co.,Fin
+AIZ,Assurant Inc.,Fin
+T,AT&T Inc.,Telecom
+ADSK,Autodesk Inc.,IT
+ADP,Automatic Data Processing,IT
+AZO,AutoZone Inc,CD
+AVB,"AvalonBay Communities, Inc.",RE
+AVY,Avery Dennison Corp,Mat
+BHGE,"Baker Hughes, a GE Company",Engy
+BLL,Ball Corp,Mat
+BAC,Bank of America Corp,Fin
+BAX,Baxter International Inc.,HC
+BBT,BB&T Corporation,Fin
+BDX,Becton Dickinson,HC
+BRK.B,Berkshire Hathaway,Fin
+BBY,Best Buy Co. Inc.,CD
+BIIB,Biogen Inc.,HC
+BLK,BlackRock,Fin
+HRB,Block H&R,Fin
+BA,Boeing Company,Ind
+BKNG,Booking Holdings Inc,CD
+BWA,BorgWarner,CD
+BXP,Boston Properties,RE
+BSX,Boston Scientific,HC
+BHF,Brighthouse Financial Inc,Fin
+BMY,Bristol-Myers Squibb,HC
+AVGO,Broadcom,IT
+BF.B,Brown-Forman Corp.,CS
+CHRW,C. H. Robinson Worldwide,Ind
+CA,"CA, Inc.",IT
+COG,Cabot Oil & Gas,Engy
+CDNS,Cadence Design Systems,IT
+CPB,Campbell Soup,CS
+COF,Capital One Financial,Fin
+CAH,Cardinal Health Inc.,HC
+KMX,Carmax Inc,CD
+CCL,Carnival Corp.,CD
+CAT,Caterpillar Inc.,Ind
+CBOE,Cboe Global Markets,Fin
+CBRE,CBRE Group,RE
+CBS,CBS Corp.,CD
+CELG,Celgene Corp.,HC
+CNC,Centene Corporation,HC
+CNP,CenterPoint Energy,Ut
+CTL,CenturyLink Inc,Telecom
+CERN,Cerner,HC
+CF,CF Industries Holdings Inc,Mat
+SCHW,Charles Schwab Corporation,Fin
+CHTR,Charter Communications,CD
+CVX,Chevron Corp.,Engy
+CMG,Chipotle Mexican Grill,CD
+CB,Chubb Limited,Fin
+CHD,Church & Dwight,CS
+CI,CIGNA Corp.,HC
+XEC,Cimarex Energy,Engy
+CINF,Cincinnati Financial,Fin
+CTAS,Cintas Corporation,Ind
+CSCO,Cisco Systems,IT
+C,Citigroup Inc.,Fin
+CFG,Citizens Financial Group,Fin
+CTXS,Citrix Systems,IT
+CME,CME Group Inc.,Fin
+CMS,CMS Energy,Ut
+KO,Coca-Cola Company (The),CS
+CTSH,Cognizant Technology Solutions,IT
+CL,Colgate-Palmolive,CS
+CMCSA,Comcast Corp.,CD
+CMA,Comerica Inc.,Fin
+CAG,Conagra Brands,CS
+CXO,Concho Resources,Engy
+COP,ConocoPhillips,Engy
+ED,Consolidated Edison,Ut
+STZ,Constellation Brands,CS
+GLW,Corning Inc.,IT
+COST,Costco Wholesale Corp.,CS
+COTY,"Coty, Inc",CS
+CCI,Crown Castle International Corp.,RE
+CSRA,CSRA Inc.,IT
+CSX,CSX Corp.,Ind
+CMI,Cummins Inc.,Ind
+CVS,CVS Health,CS
+DHI,D. R. Horton,CD
+DHR,Danaher Corp.,HC
+DRI,Darden Restaurants,CD
+DVA,DaVita Inc.,HC
+DE,Deere & Co.,Ind
+DAL,Delta Air Lines Inc.,Ind
+XRAY,Dentsply Sirona,HC
+DVN,Devon Energy Corp.,Engy
+DLR,Digital Realty Trust Inc,RE
+DFS,Discover Financial Services,Fin
+DISCA,Discovery Inc. Class A,CD
+DISCK,Discovery Inc. Class C,CD
+DISH,Dish Network,CD
+DG,Dollar General,CD
+DLTR,Dollar Tree,CD
+D,Dominion Energy,Ut
+DOV,Dover Corp.,Ind
+DWDP,DowDuPont,Mat
+DPS,Dr Pepper Snapple Group,CS
+DTE,DTE Energy Co.,Ut
+DUK,Duke Energy,Ut
+DRE,Duke Realty Corp,RE
+DXC,DXC Technology,IT
+ETFC,E*Trade,Fin
+EMN,Eastman Chemical,Mat
+ETN,Eaton Corporation,Ind
+EBAY,eBay Inc.,IT
+ECL,Ecolab Inc.,Mat
+EIX,Edison Int'l,Ut
+EW,Edwards Lifesciences,HC
+EA,Electronic Arts,IT
+EMR,Emerson Electric Company,Ind
+ETR,Entergy Corp.,Ut
+EVHC,Envision Healthcare,HC
+EOG,EOG Resources,Engy
+EQT,EQT Corporation,Engy
+EFX,Equifax Inc.,Ind
+EQIX,Equinix,RE
+EQR,Equity Residential,RE
+ESS,"Essex Property Trust, Inc.",RE
+EL,Estee Lauder Cos.,CS
+RE,Everest Re Group Ltd.,Fin
+ES,Eversource Energy,Ut
+EXC,Exelon Corp.,Ut
+EXPE,Expedia Inc.,CD
+EXPD,Expeditors International,Ind
+ESRX,Express Scripts,HC
+EXR,Extra Space Storage,RE
+XOM,Exxon Mobil Corp.,Engy
+FFIV,F5 Networks,IT
+FB,"Facebook, Inc.",IT
+FAST,Fastenal Co,Ind
+FRT,Federal Realty Investment Trust,RE
+FDX,FedEx Corporation,Ind
+FIS,Fidelity National Information Services,IT
+FITB,Fifth Third Bancorp,Fin
+FE,FirstEnergy Corp,Ut
+FISV,Fiserv Inc,IT
+FLIR,FLIR Systems,IT
+FLS,Flowserve Corporation,Ind
+FLR,Fluor Corp.,Ind
+FMC,FMC Corporation,Mat
+FL,Foot Locker Inc,CD
+F,Ford Motor,CD
+FTV,Fortive Corp,Ind
+FBHS,Fortune Brands Home & Security,Ind
+BEN,Franklin Resources,Fin
+FCX,Freeport-McMoRan Inc.,Mat
+GPS,Gap Inc.,CD
+GRMN,Garmin Ltd.,CD
+IT,Gartner Inc,IT
+GD,General Dynamics,Ind
+GE,General Electric,Ind
+GGP,General Growth Properties Inc.,RE
+GIS,General Mills,CS
+GM,General Motors,CD
+GPC,Genuine Parts,CD
+GILD,Gilead Sciences,HC
+GPN,Global Payments Inc.,IT
+GS,Goldman Sachs Group,Fin
+GT,Goodyear Tire & Rubber,CD
+GWW,Grainger (W.W.) Inc.,Ind
+HAL,Halliburton Co.,Engy
+HBI,Hanesbrands Inc,CD
+HOG,Harley-Davidson,CD
+HRS,Harris Corporation,IT
+HIG,Hartford Financial Svc.Gp.,Fin
+HAS,Hasbro Inc.,CD
+HCA,HCA Holdings,HC
+HCP,HCP Inc.,RE
+HP,Helmerich & Payne,Engy
+HSIC,Henry Schein,HC
+HES,Hess Corporation,Engy
+HPE,Hewlett Packard Enterprise,IT
+HLT,Hilton Worldwide Holdings Inc,CD
+HOLX,Hologic,HC
+HD,Home Depot,CD
+HON,Honeywell Int'l Inc.,Ind
+HRL,Hormel Foods Corp.,CS
+HST,Host Hotels & Resorts,RE
+HPQ,HP Inc.,IT
+HUM,Humana Inc.,HC
+HBAN,Huntington Bancshares,Fin
+HII,Huntington Ingalls Industries,Ind
+IDXX,IDEXX Laboratories,HC
+INFO,IHS Markit Ltd.,Ind
+ITW,Illinois Tool Works,Ind
+ILMN,Illumina Inc,HC
+INCY,Incyte,HC
+IR,Ingersoll-Rand PLC,Ind
+INTC,Intel Corp.,IT
+ICE,Intercontinental Exchange,Fin
+IBM,International Business Machines,IT
+IP,International Paper,Mat
+IPG,Interpublic Group,CD
+IFF,Intl Flavors & Fragrances,Mat
+INTU,Intuit Inc.,IT
+ISRG,Intuitive Surgical Inc.,HC
+IVZ,Invesco Ltd.,Fin
+IPGP,IPG Photonics Corp.,IT
+IQV,IQVIA Holdings Inc.,HC
+IRM,Iron Mountain Incorporated,RE
+JBHT,J. B. Hunt Transport Services,Ind
+JEC,Jacobs Engineering Group,Ind
+SJM,JM Smucker,CS
+JNJ,Johnson & Johnson,HC
+JCI,Johnson Controls International,Ind
+JPM,JPMorgan Chase & Co.,Fin
+JNPR,Juniper Networks,IT
+KSU,Kansas City Southern,Ind
+K,Kellogg Co.,CS
+KEY,KeyCorp,Fin
+KMB,Kimberly-Clark,CS
+KIM,Kimco Realty,RE
+KMI,Kinder Morgan,Engy
+KLAC,KLA-Tencor Corp.,IT
+KSS,Kohl's Corp.,CD
+KHC,Kraft Heinz Co,CS
+KR,Kroger Co.,CS
+LB,L Brands Inc.,CD
+LLL,L-3 Communications Holdings,Ind
+LH,Laboratory Corp. of America Holding,HC
+LRCX,Lam Research,IT
+LEG,Leggett & Platt,CD
+LEN,Lennar Corp.,CD
+LUK,Leucadia National Corp.,Fin
+LLY,Lilly (Eli) & Co.,HC
+LNC,Lincoln National,Fin
+LKQ,LKQ Corporation,CD
+LMT,Lockheed Martin Corp.,Ind
+L,Loews Corp.,Fin
+LOW,Lowe's Cos.,CD
+LYB,LyondellBasell,Mat
+MTB,M&T Bank Corp.,Fin
+MAC,Macerich,RE
+M,Macy's Inc.,CD
+MRO,Marathon Oil Corp.,Engy
+MPC,Marathon Petroleum,Engy
+MAR,Marriott Int'l.,CD
+MMC,Marsh & McLennan,Fin
+MLM,Martin Marietta Materials,Mat
+MAS,Masco Corp.,Ind
+MA,Mastercard Inc.,IT
+MAT,Mattel Inc.,CD
+MKC,McCormick & Co.,CS
+MCD,McDonald's Corp.,CD
+MCK,McKesson Corp.,HC
+MDT,Medtronic plc,HC
+MRK,Merck & Co.,HC
+MET,MetLife Inc.,Fin
+MTD,Mettler Toledo,HC
+MGM,MGM Resorts International,CD
+KORS,Michael Kors Holdings,CD
+MCHP,Microchip Technology,IT
+MU,Micron Technology,IT
+MSFT,Microsoft Corp.,IT
+MAA,Mid-America Apartments,RE
+MHK,Mohawk Industries,CD
+TAP,Molson Coors Brewing Company,CS
+MDLZ,Mondelez International,CS
+MON,Monsanto Co.,Mat
+MNST,Monster Beverage,CS
+MCO,Moody's Corp,Fin
+MS,Morgan Stanley,Fin
+MSI,Motorola Solutions Inc.,IT
+MYL,Mylan N.V.,HC
+NDAQ,"Nasdaq, Inc.",Fin
+NOV,National Oilwell Varco Inc.,Engy
+NAVI,Navient,Fin
+NKTR,Nektar Therapeutics,HC
+NTAP,NetApp,IT
+NFLX,Netflix Inc.,IT
+NWL,Newell Brands,CD
+NFX,Newfield Exploration Co,Engy
+NEM,Newmont Mining Corporation,Mat
+NWSA,News Corp. Class A,CD
+NWS,News Corp. Class B,CD
+NEE,NextEra Energy,Ut
+NLSN,Nielsen Holdings,Ind
+NKE,Nike,CD
+NI,NiSource Inc.,Ut
+NBL,Noble Energy Inc,Engy
+JWN,Nordstrom,CD
+NSC,Norfolk Southern Corp.,Ind
+NTRS,Northern Trust Corp.,Fin
+NOC,Northrop Grumman Corp.,Ind
+NCLH,Norwegian Cruise Line,CD
+NRG,NRG Energy,Ut
+NUE,Nucor Corp.,Mat
+NVDA,Nvidia Corporation,IT
+ORLY,O'Reilly Automotive,CD
+OXY,Occidental Petroleum,Engy
+OMC,Omnicom Group,CD
+OKE,ONEOK,Engy
+ORCL,Oracle Corp.,IT
+PCAR,PACCAR Inc.,Ind
+PKG,Packaging Corporation of America,Mat
+PH,Parker-Hannifin,Ind
+PAYX,Paychex Inc.,IT
+PYPL,PayPal,IT
+PNR,Pentair Ltd.,Ind
+PBCT,People's United Financial,Fin
+PEP,PepsiCo Inc.,CS
+PKI,PerkinElmer,HC
+PRGO,Perrigo,HC
+PFE,Pfizer Inc.,HC
+PCG,PG&E Corp.,Ut
+PM,Philip Morris International,CS
+PSX,Phillips 66,Engy
+PNW,Pinnacle West Capital,Ut
+PXD,Pioneer Natural Resources,Engy
+PNC,PNC Financial Services,Fin
+RL,Polo Ralph Lauren Corp.,CD
+PPG,PPG Industries,Mat
+PPL,PPL Corp.,Ut
+PX,Praxair Inc.,Mat
+PFG,Principal Financial Group,Fin
+PG,Procter & Gamble,CS
+PGR,Progressive Corp.,Fin
+PLD,Prologis,RE
+PRU,Prudential Financial,Fin
+PEG,Public Serv. Enterprise Inc.,Ut
+PSA,Public Storage,RE
+PHM,Pulte Homes Inc.,CD
+PVH,PVH Corp.,CD
+QRVO,Qorvo,IT
+QCOM,QUALCOMM Inc.,IT
+PWR,Quanta Services Inc.,Ind
+DGX,Quest Diagnostics,HC
+RRC,Range Resources Corp.,Engy
+RJF,Raymond James Financial Inc.,Fin
+RTN,Raytheon Co.,Ind
+O,Realty Income Corporation,RE
+RHT,Red Hat Inc.,IT
+REG,Regency Centers Corporation,RE
+REGN,Regeneron,HC
+RF,Regions Financial Corp.,Fin
+RSG,Republic Services Inc,Ind
+RMD,ResMed,HC
+RHI,Robert Half International,Ind
+ROK,Rockwell Automation Inc.,Ind
+COL,Rockwell Collins,Ind
+ROP,Roper Technologies,Ind
+ROST,Ross Stores,CD
+RCL,Royal Caribbean Cruises Ltd,CD
+SPGI,"S&P Global, Inc.",Fin
+CRM,Salesforce.com,IT
+SBAC,SBA Communications,RE
+SCG,SCANA Corp,Ut
+SLB,Schlumberger Ltd.,Engy
+STX,Seagate Technology,IT
+SEE,Sealed Air,Mat
+SRE,Sempra Energy,Ut
+SHW,Sherwin-Williams,Mat
+SPG,Simon Property Group Inc,RE
+SWKS,Skyworks Solutions,IT
+SLG,SL Green Realty,RE
+SNA,Snap-On Inc.,CD
+SO,Southern Co.,Ut
+LUV,Southwest Airlines,Ind
+SWK,Stanley Black & Decker,CD
+SBUX,Starbucks Corp.,CD
+STT,State Street Corp.,Fin
+SRCL,Stericycle Inc,Ind
+SYK,Stryker Corp.,HC
+STI,SunTrust Banks,Fin
+SIVB,SVB Financial,Fin
+SYMC,Symantec Corp.,IT
+SYF,Synchrony Financial,Fin
+SNPS,Synopsys Inc.,IT
+SYY,Sysco Corp.,CS
+TROW,T. Rowe Price Group,Fin
+TTWO,Take-Two Interactive,IT
+TPR,"Tapestry, Inc.",CD
+TGT,Target Corp.,CD
+TEL,TE Connectivity Ltd.,IT
+FTI,TechnipFMC,Engy
+TXN,Texas Instruments,IT
+TXT,Textron Inc.,Ind
+BK,The Bank of New York Mellon Corp.,Fin
+CLX,The Clorox Company,CS
+COO,The Cooper Companies,HC
+HSY,The Hershey Company,CS
+MOS,The Mosaic Company,Mat
+TRV,The Travelers Companies Inc.,Fin
+DIS,The Walt Disney Company,CD
+TMO,Thermo Fisher Scientific,HC
+TIF,Tiffany & Co.,CD
+TWX,Time Warner Inc.,CD
+TJX,TJX Companies Inc.,CD
+TMK,Torchmark Corp.,Fin
+TSS,Total System Services,IT
+TSCO,Tractor Supply Company,CD
+TDG,TransDigm Group,Ind
+TRIP,TripAdvisor,CD
+FOXA,Twenty-First Century Fox Class A,CD
+FOX,Twenty-First Century Fox Class B,CD
+TSN,Tyson Foods,CS
+USB,U.S. Bancorp,Fin
+UDR,UDR Inc,RE
+ULTA,Ulta Beauty,CD
+UAA,Under Armour Class A,CD
+UA,Under Armour Class C,CD
+UNP,Union Pacific,Ind
+UAL,United Continental Holdings,Ind
+UNH,United Health Group Inc.,HC
+UPS,United Parcel Service,Ind
+URI,"United Rentals, Inc.",Ind
+UTX,United Technologies,Ind
+UHS,"Universal Health Services, Inc.",HC
+UNM,Unum Group,Fin
+VFC,V.F. Corp.,CD
+VLO,Valero Energy,Engy
+VAR,Varian Medical Systems,HC
+VTR,Ventas Inc,RE
+VRSN,Verisign Inc.,IT
+VRSK,Verisk Analytics,Ind
+VZ,Verizon Communications,Telecom
+VRTX,Vertex Pharmaceuticals Inc,HC
+VIAB,Viacom Inc.,CD
+V,Visa Inc.,IT
+VNO,Vornado Realty Trust,RE
+VMC,Vulcan Materials,Mat
+WMT,Wal-Mart Stores,CS
+WBA,Walgreens Boots Alliance,CS
+WM,Waste Management Inc.,Ind
+WAT,Waters Corporation,HC
+WEC,Wec Energy Group Inc,Ut
+WFC,Wells Fargo,Fin
+WELL,Welltower Inc.,RE
+WDC,Western Digital,IT
+WU,Western Union Co,IT
+WRK,WestRock Company,Mat
+WY,Weyerhaeuser Corp.,RE
+WHR,Whirlpool Corp.,CD
+WMB,Williams Cos.,Engy
+WLTW,Willis Towers Watson,Fin
+WYN,Wyndham Worldwide,CD
+WYNN,Wynn Resorts Ltd,CD
+XEL,Xcel Energy Inc,Ut
+XRX,Xerox Corp.,IT
+XLNX,Xilinx Inc,IT
+XL,XL Capital,Fin
+XYL,Xylem Inc.,Ind
+YUM,Yum! Brands Inc,CD
+ZBH,Zimmer Biomet Holdings,HC
+ZION,Zions Bancorp,Fin
+ZTS,Zoetis,HC
